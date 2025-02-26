@@ -1,0 +1,23 @@
+This project is a simplified front-end clone of the Amazon e-commerce website, built using HTML and CSS.
+It replicates the basic layout and design of Amazon's homepage, focusing on user interface elements.
+The goal is to demonstrate proficiency in structuring web pages with HTML and styling them using CSS, including flexbox, grids and many more. 
+The project is hosted on GitHub as part of my portfolio to showcase my front-end development skills. 
+Contributions and feedback are welcome ...
+
+
+
+Technologies Used :
+
+HTML5
+CSS3 (Flexbox, Grid, Media Queries)
+GitHub (Version Control and Hosting)
+
+
+Features :
+
+Clean and structured code
+Static UI components like headers, product cards, and footers
+
+
+
+-> This project is a work in progress, with plans to add more interactive features using JavaScript in the future.
